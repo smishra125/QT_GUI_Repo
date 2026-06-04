@@ -1,0 +1,5 @@
+D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/UpdateSQLData.dir
+D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/UpdateSQLData_autogen_timestamp_deps.dir
+D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/UpdateSQLData_autogen.dir

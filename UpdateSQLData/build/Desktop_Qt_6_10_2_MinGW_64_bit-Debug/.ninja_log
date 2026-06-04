@@ -1,0 +1,9 @@
+# ninja log v6
+15	1595	8023037105157435	UpdateSQLData_autogen/timestamp	251e5dc5917a64fc
+15	1595	8023037105157435	UpdateSQLData_autogen/mocs_compilation.cpp	251e5dc5917a64fc
+15	1595	8023037105157435	D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/UpdateSQLData_autogen/timestamp	251e5dc5917a64fc
+15	1595	8023037105157435	D:/Projects/GUIProjects/UpdateSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/UpdateSQLData_autogen/mocs_compilation.cpp	251e5dc5917a64fc
+1607	4114	8023037107582933	CMakeFiles/UpdateSQLData.dir/UpdateSQLData_autogen/mocs_compilation.cpp.obj	4b79cf46554d04bc
+1618	4199	8023037107643808	CMakeFiles/UpdateSQLData.dir/main.cpp.obj	6d295cbb1c8b6ba0
+1630	4865	8023037107804071	CMakeFiles/UpdateSQLData.dir/widget.cpp.obj	d20438260d7b8495
+4869	9044	8023037140196642	UpdateSQLData.exe	cd187e2c73b0ee10
