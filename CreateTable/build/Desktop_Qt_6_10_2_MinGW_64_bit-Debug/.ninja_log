@@ -1,0 +1,9 @@
+# ninja log v6
+47	207	8022974068835534	2-CreateTable_autogen/timestamp	aad0f82b716a5d74
+47	207	8022974068835534	2-CreateTable_autogen/mocs_compilation.cpp	aad0f82b716a5d74
+47	207	8022974068835534	D:/Projects/GUIProjects/CreateTable/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	aad0f82b716a5d74
+47	207	8022974068835534	D:/Projects/GUIProjects/CreateTable/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	aad0f82b716a5d74
+1018	2698	8022967101369225	CMakeFiles/2-CreateTable.dir/2-CreateTable_autogen/mocs_compilation.cpp.obj	e3ee75e953e67a1e
+1022	2722	8022967101408651	CMakeFiles/2-CreateTable.dir/main.cpp.obj	e3af839533a81f5
+208	1755	8022974070441288	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	3182dce2ddbb77b8
+1755	1984	8022974085869589	2-CreateTable.exe	d6dd2cdb2585bb3

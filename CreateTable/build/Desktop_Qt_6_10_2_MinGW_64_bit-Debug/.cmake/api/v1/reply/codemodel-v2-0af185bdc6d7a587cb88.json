@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CreateTable",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CreateTable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CreateTable-Debug-308f0144e0c8c5fb4819.json",
+					"name" : "CreateTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CreateTable_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CreateTable_autogen-Debug-5e17174fb6a8ce840f5f.json",
+					"name" : "CreateTable_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CreateTable_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CreateTable_autogen_timestamp_deps-Debug-2b5cba701fc435ae1487.json",
+					"name" : "CreateTable_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/GUIProjects/CreateTable/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "D:/Projects/GUIProjects/CreateTable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
