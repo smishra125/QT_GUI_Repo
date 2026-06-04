@@ -40,7 +40,7 @@ Some projects may require additional tools, drivers, or database setup. Check th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shubham7946/QT_GUI_Repo.git
+   git clone https://github.com/smishra125/QT_GUI_Repo.git
    ```
 
 2. Open the required project folder in Qt Creator.
