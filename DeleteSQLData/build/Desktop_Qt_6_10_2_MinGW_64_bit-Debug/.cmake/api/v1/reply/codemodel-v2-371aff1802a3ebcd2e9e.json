@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DeleteDataSQLData",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteDataSQLData::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteDataSQLData-Debug-df0d3031ac505b1c7470.json",
+					"name" : "DeleteDataSQLData",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteDataSQLData_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteDataSQLData_autogen-Debug-beb7326d0a9208581944.json",
+					"name" : "DeleteDataSQLData_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteDataSQLData_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteDataSQLData_autogen_timestamp_deps-Debug-5386d40eaccaae107654.json",
+					"name" : "DeleteDataSQLData_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/GUIProjects/DeleteSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "D:/Projects/GUIProjects/DeleteSQLData"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

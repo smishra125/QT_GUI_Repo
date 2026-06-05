@@ -1,0 +1,9 @@
+# ninja log v6
+6	776	8023052665270580	DeleteDataSQLData_autogen/timestamp	62a6b49b07a82ef2
+6	776	8023052665270580	DeleteDataSQLData_autogen/mocs_compilation.cpp	62a6b49b07a82ef2
+6	776	8023052665270580	D:/Projects/GUIProjects/DeleteSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DeleteDataSQLData_autogen/timestamp	62a6b49b07a82ef2
+6	776	8023052665270580	D:/Projects/GUIProjects/DeleteSQLData/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DeleteDataSQLData_autogen/mocs_compilation.cpp	62a6b49b07a82ef2
+780	2817	8023052666315555	CMakeFiles/DeleteDataSQLData.dir/DeleteDataSQLData_autogen/mocs_compilation.cpp.obj	150fb4144f4bbd04
+786	2895	8023052666375373	CMakeFiles/DeleteDataSQLData.dir/main.cpp.obj	5ef1a899b28557d8
+790	3133	8023052666410858	CMakeFiles/DeleteDataSQLData.dir/widget.cpp.obj	24f8b795ddbf1289
+3138	3451	8023052689902749	DeleteDataSQLData.exe	49d65071331acb0d
